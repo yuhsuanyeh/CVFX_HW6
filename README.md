@@ -20,7 +20,7 @@ After we record a video, we have to calibrate camera and calculate our camera in
 |Added our object to video|
 |<img src='gg.gif'>|
 
-### Here we add visual effects with post-production software (After Effects) an compare with ORB-SLAM2<br>
+### Here we add visual effects with post-production software (After Effects) and compare with ORB-SLAM2<br>
 | ORB-SLAM2 | After Effects |
 |---------------|---------------|
 |<img src="og.gif" alt="drawing" width="500"/>|<img src="ae.gif" alt="drawing" width="500"/>|
