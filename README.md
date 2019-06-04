@@ -12,7 +12,9 @@
 After we record a video, we have to calibrate camera and calculate our camera intrinsic. Next, we use orb-slam2 to get the keypoint camera pose and the video trajectory. When we have camera pose, we can accurately project our object (Image or GIF) to the world coordinate and get the final results. <br>
 
 ### Here we show our video trajectory and point cloud and camera pose <br>
-|trajectory & point cloud & camera pose|Added our object to video|
-|--------------------------------------|-------------------------|
-|<img src='pts1.gif'>|<img src='gg.gif'>|
-
+|Video1|
+|:------:|
+|Trajectory & Point Cloud & Camera Pose|
+|<img src='pts1.gif'>|
+|Added our object to video|
+|<img src='gg.gif'>|
