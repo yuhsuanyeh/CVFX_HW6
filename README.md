@@ -21,6 +21,13 @@ After we record a video, we have to calibrate camera and calculate our camera in
 |3D Visual Effect|
 |<img src='gg.gif'>|
 
+|Video2|
+|:------:|
+|Trajectory and Point Cloud|
+|<img src='pts2.gif'>|
+|3D Visual Effect|
+|<img src='bb.gif'>|
+
 **Comparison between ORB-SLAM2 and After Effect** 
 
 | ORB-SLAM2 | After Effects |
