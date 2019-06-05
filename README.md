@@ -12,13 +12,13 @@
 ## 1.Take videos by ourselves and Make these visual effects with ORB-SLAM2
 After we record a video, we have to calibrate camera and calculate our camera intrinsic. Next, we use orb-slam2 to get the keypoint camera pose and the video trajectory. When we have camera pose, we can accurately project our object (Image or GIF) to the world coordinate and get the final results. <br>
 
-**video trajectory, Point cloud, and 3D visual effect**
+**Video trajectory, Point cloud, and 3D visual effect**
 
 |Video1|
 |:------:|
-|Trajectory & Point Cloud & Camera Pose|
+|Trajectory and Point Cloud|
 |<img src='pts1.gif'>|
-|Added our object to video|
+|3D Visual Effect|
 |<img src='gg.gif'>|
 
 **Comparison between ORB-SLAM2 and After Effect** 
@@ -26,3 +26,8 @@ After we record a video, we have to calibrate camera and calculate our camera in
 | ORB-SLAM2 | After Effects |
 |---------------|---------------|
 |<img src="og.gif" alt="drawing" width="500"/>|<img src="ae.gif" alt="drawing" width="500"/>|
+
+
+**Special Effect**
+
+Make some moving effect
