@@ -41,6 +41,6 @@ As we first apply SLAM to obtain camera pose, we can assume a real object in the
 |<img src="og.gif" alt="drawing" width="500"/>|<img src="ae.gif" alt="drawing" width="500"/>|
 
 
-**Special Effect**
-Here we add rotation effect of a image.
-
+**Special Effect** <br>
+Here we add rotation effect of a image. <br>
+<img src='tt.gif' width='400'/>
