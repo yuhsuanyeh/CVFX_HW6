@@ -19,8 +19,10 @@ After we record a video, we have to calibrate camera and calculate our camera in
 |:------:|
 |Trajectory and Point Cloud|
 |<img src='pts1.gif'>|
-|3D Visual Effect|
+|3D Visual Effect -- Version 1|
 |<img src='gg.gif'>|
+|3D Visual Effect -- Version 2|
+|<img src='bb1.gif'>|
 
 **Video trajectory, Point cloud, and 3D visual effect : Case 2**
 
@@ -28,9 +30,9 @@ After we record a video, we have to calibrate camera and calculate our camera in
 |:------:|
 |Trajectory and Point Cloud|
 |<img src='pts2.gif'>|
-|3D Visual Effect-version1|
+|3D Visual Effect -- Version 1|
 |<img src='gg2.gif'>|
-|3D Visual Effect-version2|
+|3D Visual Effect -- Version 2|
 |<img src='bb.gif'>|
 
 **Comparison between ORB-SLAM2 and After Effect**  <br>
