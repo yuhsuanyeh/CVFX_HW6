@@ -33,7 +33,7 @@ After we record a video, we have to calibrate camera and calculate our camera in
 |3D Visual Effect-version2|
 |<img src='bb.gif'>|
 
-**Comparison between ORB-SLAM2 and After Effect** 
+**Comparison between ORB-SLAM2 and After Effect**  <br>
 As we first apply SLAM to obtain camera pose, we can assume a real object in the world coordinate and project it onto camera plane. In this way, we can feel like there is a real object in somewhere. However, using After Effect cannot use 3D information and the result will be just like a 2D image on the screen.
 
 | ORB-SLAM2 | After Effects |
