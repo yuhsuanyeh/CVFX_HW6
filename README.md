@@ -41,5 +41,5 @@ After we record a video, we have to calibrate camera and calculate our camera in
 
 
 **Special Effect**
+Here we add rotation effect of a image.
 
-Make some moving effect
